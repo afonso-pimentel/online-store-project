@@ -1,3 +1,15 @@
+/* styles.css */
+
+.btn {
+  background-color: #1f883d;
+  /* the rest of the styles */
+}
+
+.btn:hover {
+  color: var(--btn-text);
+  background-color: var(--btn-hover);
+}
+
 .App {
   text-align: center;
 }
